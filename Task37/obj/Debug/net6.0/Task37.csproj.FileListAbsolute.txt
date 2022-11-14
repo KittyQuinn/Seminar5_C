@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/bin/Debug/net6.0/Task37
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/bin/Debug/net6.0/Task37.deps.json
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/bin/Debug/net6.0/Task37.runtimeconfig.json
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/bin/Debug/net6.0/Task37.dll
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/bin/Debug/net6.0/Task37.pdb
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/obj/Debug/net6.0/Task37.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/obj/Debug/net6.0/Task37.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/obj/Debug/net6.0/Task37.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/obj/Debug/net6.0/Task37.AssemblyInfo.cs
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/obj/Debug/net6.0/Task37.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/obj/Debug/net6.0/Task37.dll
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/obj/Debug/net6.0/refint/Task37.dll
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/obj/Debug/net6.0/Task37.pdb
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/obj/Debug/net6.0/Task37.genruntimeconfig.cache
+/Users/kataryzova/Desktop/Seminar5 C#/Task37/obj/Debug/net6.0/ref/Task37.dll
