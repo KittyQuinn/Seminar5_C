@@ -34,5 +34,31 @@ else
 
 
 
+// Console.Clear();
+
+// int size = 10;
+
+// int[] array = new int [size];
+
+// for (int i = 0; i < array.Length;i++){
+//     array[i] = new Random().Next(-2, 10);
+//     Console.Write(array[i]+ " ");
+// }
+
+// Console.WriteLine();
+
+// Console.Write("Type a number you want to find ");
+// int find = int.Parse(Console.ReadLine());
+
+// int j = 0;
+// while (j<array.Length)
+// {
+//     if (array[j] == find)
+//     {Console.WriteLine("Yes");}
+//     else {Console.WriteLine("No");}
+//     j++;
+// }
+
+
 
 
