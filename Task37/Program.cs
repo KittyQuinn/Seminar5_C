@@ -6,23 +6,18 @@
 
 int[]array = {1,2,3,4,5};
 
-int len = array.Length%2;
-int newIndex = 0;
-int newNum = 0;
+int lastIndex = array.Length - 1; // 5-1=4
 
-int index = array.Length -1;
-int[]result = new int [array.Length/2+array.Length%2];
+int[]resultArray = new int [array.Length/2+array.Length%2];
 
-if (len>0)
-{newIndex = array.Length/2+1;}
 
-for (int i = 0; i < result.Length; i++)
+for (int i = 0; i < resultArray.Length; i++)
 {
-    result[i]=array[i]*array[index-i];
-    Console.WriteLine(result[i]);
-    if (newIndex==i)
+    resultArray[i]=array[i]*array[lastIndex-i];
+
+if (i == lastIndex - i)
     {
-        newNum = array[i];
-        Console.WriteLine(newNum);
+        resultArray[i] = array[i];
     }
 }
+Console.WriteLine(String.Join(",", resultArray));

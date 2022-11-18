@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kataryzova/Desktop/Seminar5 C#/Task37/Task37.csproj",
+      "projectUniqueName": "/Users/kataryzova/Desktop/GIT/Seminar5 C#/Task37/Task37.csproj",
       "projectName": "Task37",
-      "projectPath": "/Users/kataryzova/Desktop/Seminar5 C#/Task37/Task37.csproj",
+      "projectPath": "/Users/kataryzova/Desktop/GIT/Seminar5 C#/Task37/Task37.csproj",
       "packagesPath": "/Users/kataryzova/.nuget/packages/",
-      "outputPath": "/Users/kataryzova/Desktop/Seminar5 C#/Task37/obj/",
+      "outputPath": "/Users/kataryzova/Desktop/GIT/Seminar5 C#/Task37/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kataryzova/.nuget/NuGet/NuGet.Config"
